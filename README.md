@@ -45,7 +45,7 @@ Nearly 86% of employees report improved work performance and lower rates of abse
 *Feature Selection Using Cofficient Score*
 <img width="855" alt="Screen Shot 2021-04-13 at 13 48 30" src="https://user-images.githubusercontent.com/68433894/114510934-772b0180-9c61-11eb-87f4-a3a312c258f4.png">
 
-*Model Evaluation Using Feature Selection*
+*Model Evaluation After Feature Selection*
 <img width="855" alt="Screen Shot 2021-04-13 at 13 48 47" src="https://user-images.githubusercontent.com/68433894/114510980-87db7780-9c61-11eb-8daa-da0a2330342f.png">
 
 ###  DashBoard & Prediction
